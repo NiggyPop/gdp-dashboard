@@ -1,0 +1,29 @@
+Term Year,Category,Previous Term,Current Term
+Year 1,Encounters,850000,600000
+Year 2,Encounters,950000,1800000
+Year 3,Encounters,1013539,2400000
+Year 4,Encounters,450000,2200000
+Year 1,TPS Issued,20000,70000
+Year 2,TPS Issued,25000,125000
+Year 3,TPS Issued,30000,200000
+Year 4,TPS Issued,45000,250000
+Year 1,Visas Issued,9000000,3077152
+Year 2,Visas Issued,9100000,7308568
+Year 3,Visas Issued,9204490,10901303
+Year 4,Visas Issued,4253736,11500000
+Year 1,Citizens Added,707265,814000
+Year 2,Citizens Added,760000,967400
+Year 3,Citizens Added,843593,878500
+Year 4,Citizens Added,625000,900000
+Year 1,Asylum Requested,55000,82000
+Year 2,Asylum Requested,60000,120000
+Year 3,Asylum Requested,60000,150000
+Year 4,Asylum Requested,75000,180000
+Year 1,Total Deportations,500000,480000
+Year 2,Total Deportations,520000,850000
+Year 3,Total Deportations,600000,930000
+Year 4,Total Deportations,450000,980000
+Year 1,Prisoners,15000,40000
+Year 2,Prisoners,20000,55000
+Year 3,Prisoners,50000,60000
+Year 4,Prisoners,30000,58000
